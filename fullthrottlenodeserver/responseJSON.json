@@ -1,0 +1,151 @@
+{
+    "ok": true,
+    "members": [{
+            "id": "W012A3CDE",
+            "real_name": "Egon Spengler",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA4",
+            "real_name": "Glinda Southgood",
+            "tz": "Asia/Kolkata",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        }, {
+            "id": "W012A3CDF",
+            "real_name": "James Spade",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Feb 2 2020  1:33PM",
+                    "end_time": "Feb 2 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W012A3CDG",
+            "real_name": "Helen Micheal",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Jan 1 2020  1:33PM",
+                    "end_time": "Jan 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                },
+                {
+                    "start_time": "Jun 16 2020  5:33PM",
+                    "end_time": "Jun 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W012A3CDH",
+            "real_name": "Pravin Nayak",
+            "tz": "Asia/Kolkata",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 5 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W012A3CDI",
+            "real_name": "Helen Micheal",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W012A3CDJ",
+            "real_name": "Anthony Rudin",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 10:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        },
+        {
+            "id": "W012A3CDK",
+            "real_name": "Ajith John P",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [{
+                    "start_time": "Feb 1 2020  1:33PM",
+                    "end_time": "Feb 1 2020 1:54PM"
+                },
+                {
+                    "start_time": "Mar 1 2020  11:11AM",
+                    "end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+                    "start_time": "Mar 16 2020  5:33PM",
+                    "end_time": "Mar 16 2020 8:02PM"
+                }
+            ]
+        }
+    ]
+}
