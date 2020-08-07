@@ -1,4 +1,6 @@
-### Server section
+### Live Preview : https://calm-shelf-40053.herokuapp.com/ 
+
+# Server section
 
 ## About
 This is a sample server which will just return a list of user's hardcoded, which is available in the file response.json
@@ -18,7 +20,7 @@ to start the server, at 1234 port,
 
 
 
-### UI Section
+# UI Section
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
